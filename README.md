@@ -10,3 +10,9 @@ El comando git add se utiliza para agregar cambios en los archivos del directori
 El comando git commit -m "mensaje" guarda los cambios registrado en el área de preparación en el repositorio con un mensaje que describe los cambios realizados. Este mensaje sirve como un historial de commits. 
 
 *Laura Rodríguez*
+
+### Consulta en internet
+
+El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir.
+
+
